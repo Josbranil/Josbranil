@@ -1,19 +1,19 @@
-<h1 align='center'> Hi there! 👋 I am Richard López 👨‍💻</h1>
+<h1 align='center'> Hi there! 👋 I'm Richard López 👨‍💻</h1>
 
-<p align='center'>
+<h3 align='center'>
   🌱 I’m currently learning web development. 💻
-</p>
+</h3>
 
 <p align='center'>
   More information about me:
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/richard-josbranil"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/richard-josbranil"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align='center'>
-  <a href="https://platzi.com/p/Josbranil"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Platzi&color=222222&logo=Platzi&logoColor=98CA3F&label="" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://platzi.com/p/Josbranil"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Platzi&color=222222&logo=Platzi&logoColor=98CA3F&label="" target="_blank" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
     
 <hr>
