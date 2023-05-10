@@ -1,8 +1,8 @@
 <h1 align='center'> Hi there! 👋 I'm Richard López 👨‍💻</h1>
 
-<h3 align='center'>
-  I’m a Front-End Developer 💻
-</h3>
+<h2 align='center'>
+  Front-End Developer 💻
+</h2>
 
 <p align='center'>
   More information about me:
