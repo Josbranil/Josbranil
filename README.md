@@ -1,13 +1,5 @@
 <h1 align='center'> Hi there! 👋 I'm Richard López 👨‍💻</h1>
 
-<h2 align='center'>
-  Web Developer 💻
-</h2>
-
-<p align='center'>
-  More information about me:
-</p>
-
 <p align='center'>
   <a href="https://www.linkedin.com/in/richard-josbranil"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
