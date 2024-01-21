@@ -19,6 +19,6 @@
   <br>
   <br>
   <a href="#">
-    <img width="100px" onclick="return false" src="https://www.nrhosting.com/wp-content/uploads/2021/01/Git-and-GitHub.png" />
+    <img width="100px" onclick="return false" src="https://campus.diplomadosonline.com/wp-content/uploads/2022/09/Banner-scaled.jpg" />
   </a>  
 </p>
