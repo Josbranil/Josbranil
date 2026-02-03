@@ -19,6 +19,6 @@
   <br>
   <br>
   <a href="#">
-    <img width="100px" onclick="return false" src="https://alyssonmach.github.io/Minicurso-Git-e-GitHub/img/5.png" />
+    <img width="100px" onclick="return false" src="https://vetores.org/wp-content/uploads/git.png" />
   </a>  
 </p>
