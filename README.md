@@ -19,6 +19,6 @@
   <br>
   <br>
   <a href="#">
-    <img width="120px" onclick="return false" src="https://copilot.microsoft.com/th/id/BCO.cf274b6d-287e-4190-a31b-b7920883cc4f.png"/>
+    <img width="180px" onclick="return false" src="https://copilot.microsoft.com/th/id/BCO.4586db65-b549-44e6-8965-1b70bf95920d.png"/>
   </a>  
 </p>
