@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there! 👋 I'm Richard López 👨‍💻</h1>
+<h1 align='center'> Hi there! 👋 I'm Richard 👨‍💻</h1>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/richard-josbranil"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -19,6 +19,6 @@
   <br>
   <br>
   <a href="#">
-    <img width="100px" onclick="return false" src="https://campus.diplomadosonline.com/wp-content/uploads/2022/09/Banner-scaled.jpg" />
+    <img width="100px" onclick="return false" src="https://alyssonmach.github.io/Minicurso-Git-e-GitHub/img/5.png" />
   </a>  
 </p>
